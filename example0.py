@@ -5,8 +5,8 @@
 #     strategy_description: a string
 #     move: A function that returns 'c' or 'b'
 ####
-
-team_name = 'GDWZ'
+help 
+team_name = 'E0'
 strategy_name = 'Collude'
 strategy_description = 'Always collude.'
     
