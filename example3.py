@@ -6,7 +6,11 @@
 #     move: A function that returns 'c' or 'b'
 ####
 
+<<<<<<< Updated upstream
 team_name = 'Dominique is the best'
+=======
+team_name = 'Hi'
+>>>>>>> Stashed changes
 strategy_name = 'Collude but retaliate'
 strategy_description = '''\
 Collude first round. Collude, except in a round after getting 
